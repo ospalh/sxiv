@@ -408,8 +408,10 @@ struct win {
 	Window xwin;
 	win_env_t env;
 
+	bool light; /* bg is lighter than fg */
 	XftColor bg;
 	XftColor fg;
+	XftColor black;
 
 	int x;
 	int y;
