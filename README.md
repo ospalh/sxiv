@@ -72,6 +72,11 @@ on GitHub or get a copy using git with the following command:
 
     git clone https://github.com/muennich/sxiv.git
 
+On this for i just undid two changes i didn’t like.
+
+* This does show the file name in the window title again
+* It uses a black background in fullscreen mode again
+
 **Stable releases**
 
 **[v25](https://github.com/muennich/sxiv/archive/v25.tar.gz)**
@@ -218,4 +223,3 @@ on GitHub or get a copy using git with the following command:
 *(January 21, 2011)*
 
   * Initial release
-
